@@ -21,7 +21,10 @@ AgenteFAI/
 ├── 01_hola_mundo.py       ← Tu primer programa
 ├── 02_variables.py        ← Guardar información
 ├── 03_decisiones.py       ← Hacer que el programa decida
-└── 04_repeticiones.py     ← Repetir acciones
+├── 04_repeticiones.py     ← Repetir acciones
+└── mutual/                ← Proyecto real: buscar información en la Mutual
+    ├── buscar_mutual.py   ← El programa
+    └── LEEME.md           ← Cómo instalarlo y usarlo
 ```
 
 ## ¿Cómo ejecutar los ejemplos?

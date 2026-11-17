@@ -1,0 +1,6 @@
+# Resultados del buscador de la Mutual: contienen datos privados, NUNCA subir
+resultados_mutual/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
